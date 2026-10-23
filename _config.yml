@@ -1,0 +1,8 @@
+# Site title and description are the same as the page's, so jekyll-seo-tag outputs them unchanged
+# (no " | site name" suffix pushing the phone number out of the title tag).
+title: "Virus Removal Service | Call +1 (877) 270-1778 | KeyBridge"
+description: "Computer infected? KeyBridge technicians remove viruses, malware and pop-ups from Windows PCs and Macs. Call +1 (877) 270-1778 to talk to a technician."
+theme: jekyll-theme-cayman
+plugins:
+  - jekyll-seo-tag
+lang: en-US
